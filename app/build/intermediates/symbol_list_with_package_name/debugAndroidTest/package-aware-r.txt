@@ -1,0 +1,3 @@
+com.abhay.mishaltechnologiesassignment.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme
